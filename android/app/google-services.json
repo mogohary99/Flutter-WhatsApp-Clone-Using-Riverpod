@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442090365472",
+    "project_id": "whatsapp-riverpod",
+    "storage_bucket": "whatsapp-riverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442090365472:android:260e925e91b22956a85245",
+        "android_client_info": {
+          "package_name": "mogohary99.whatsapp_riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442090365472-7h5b28mb0utlgnk276fc83fqcgdt53hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mogohary99.whatsapp_riverpod",
+            "certificate_hash": "09199a03d91f7c6cd3061042942deb2c3f3a93d0"
+          }
+        },
+        {
+          "client_id": "442090365472-7u5qpbc0r4ajpf61sv3ijt4cu6blnovg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlKsgpbev6wBX8YlcmiAirGFzFcASdB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442090365472-7u5qpbc0r4ajpf61sv3ijt4cu6blnovg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
